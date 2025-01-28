@@ -2,12 +2,10 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-// import logo from "../../public/images/IQ-logo1.png";
 import { IoHomeOutline } from "react-icons/io5";
 import { MdOutlineRoundaboutRight } from "react-icons/md";
 import { IoMdContact } from "react-icons/io";
 import { GoProjectSymlink } from "react-icons/go";
-import { FcServices } from "react-icons/fc";
 import { FaFilePdf } from "react-icons/fa";
 
 const Header = () => {

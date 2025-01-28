@@ -1,7 +1,7 @@
 'use client'
 import { useRef } from 'react';
-import { FaHtml5, FaCss3Alt, FaJs,  FaGitAlt } from 'react-icons/fa';
-import { SiTypescript, SiNextdotjs } from 'react-icons/si';
+import { FaGitAlt } from 'react-icons/fa';
+import {  SiNextdotjs } from 'react-icons/si';
 
 
 
